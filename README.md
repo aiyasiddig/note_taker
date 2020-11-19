@@ -1,4 +1,4 @@
-# note-taker
+# Express Note Taker
 
 ![github license](https://img.shields.io/badge/license-MIT-green)
 
